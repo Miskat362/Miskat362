@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Miskat362/localrepo/blob/36651ea65a6805ef355e7e33937147febd38a4f2/GH.png)
+![logo](https://github.com/Miskat362/localrepo/blob/36651ea65a6805ef355e7e33937147febd38a4f2/GH.png)
 <h1 align="center">Hi 👋, I'm Md Miskat Ahmmed</h1>
 <h3 align="center">A passionate in CP | SE | AI-ML-DL |</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Miskat362/localrepo/blob/eab67d517dd68680d94a6c8212f365694a9479d8/Coding.gif">
