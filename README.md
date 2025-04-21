@@ -1,6 +1,9 @@
-![logo](https://github.com/Miskat362/localrepo/blob/36651ea65a6805ef355e7e33937147febd38a4f2/GH.png)
+<!--![](https://github.com/Miskat362/localrepo/blob/36651ea65a6805ef355e7e33937147febd38a4f2/GH.png) -->
+<img alt="Coding" src="https://github.com/Miskat362/localrepo/blob/36651ea65a6805ef355e7e33937147febd38a4f2/GH.png">
 <h1 align="center">Hi 👋, I'm Md Miskat Ahmmed</h1>
 <h3 align="center">A passionate in CP | SE | AI-ML-DL |</h3>
+<h4 align="center">Let's collaborate and build something amazing together! 💣😎</h4>
+
 <img align="right" alt="Coding" width="400" src="https://github.com/Miskat362/localrepo/blob/eab67d517dd68680d94a6c8212f365694a9479d8/Coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miskat362&label=Profile%20views&color=0e75b6&style=flat" alt="miskat362" /> </p>
@@ -29,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miskat362&show_icons=true&locale=en" alt="miskat362" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miskat362&" alt="miskat362" /></p>
+
