@@ -4,7 +4,7 @@
 <h3 align="center">A passionate in CP | SE | AI-ML-DL |</h3>
 <h4 align="center">Let's collaborate and build something amazing together! 💣😎</h4>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Miskat362/first-projects/blob/2fb2de67fe81224ae9203b5421de64d45991eec2/Coding.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Miskat362/first-projects/blob/563727de360f72b93b366ebd36a5ea27a20bbbe5/Coding_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miskat362&label=Profile%20views&color=0e75b6&style=flat" alt="miskat362" /> </p>
 
