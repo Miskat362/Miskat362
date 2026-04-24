@@ -1,7 +1,6 @@
-![](https://github.com/Miskat362/first-projects/blob/2fb2de67fe81224ae9203b5421de64d45991eec2/GHc.gif)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=150&animation=twinkling&section=header&text=Hey%20👋,%20I'm%20Md%20Miskat%20Ahmed&fontSize=30&fontColor=ffffff&fontAlignY=30" width="100%"/>
+<p align="center" style="margin:0; padding:0; line-height:0;">
+  <img src="https://github.com/Miskat362/first-projects/blob/2fb2de67fe81224ae9203b5421de64d45991eec2/GHc.gif" height="180" width="100%" style="display:block; margin:0; padding:0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:522c8a,100:4c32d1&height=150&animation=twinkling&section=header&text=Hey%20👋,%20I'm%20Md%20Miskat%20Ahmed&fontSize=30&fontColor=ffffff&fontAlignY=30" width="100%" style="display:block; margin:0;padding:0;">
 </p>
 
 <h3 align="left">A Passionate in ⚡ </h3>
