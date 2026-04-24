@@ -1,22 +1,20 @@
 ![](https://github.com/Miskat362/first-projects/blob/2fb2de67fe81224ae9203b5421de64d45991eec2/GHc.gif)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=150&animation=twinkling&section=header&text=Hey👋,%20I'm Md Miskat Ahmmed&fontSize=30&fontColor=ffffff&fontAlignY=30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=150&animation=twinkling&section=header&text=Hey%20👋,%20I'm%20Md%20Miskat%20Ahmed&fontSize=30&fontColor=ffffff&fontAlignY=30" width="100%"/>
 </p>
 
 <h3 align="left">A Passionate in ⚡ </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=22&center=false&vCenter=false&width=650&lines= 💻 Programming; 📊 Data Science; 🤖 Machine Learning; 🧠 Deep-Learning; 🗣️ Natural Language Processing; 👀 Computer Vision; 📄 Research Publication; 📚 Active Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=22&center=false&vCenter=false&width=650&lines=💻%20Programming;📊%20Data%20Science;🤖%20Machine%20Learning;🧠%20Deep%20Learning;🗣️%20Natural%20Language%20Processing;👀%20Computer%20Vision;📄%20Research%20Publication;📚%20Active%20Learning" />
 </p>
 
 <h4 align="center">Let's collaborate and build something amazing together! 💣😎</h4>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=miskat362&label=%20VISITORS%20⚡&color=9d4edd&style=for-the-badge" />
 </p>
-
 <img align="right" alt="Coding" width="400" src="https://github.com/Miskat362/first-projects/blob/563727de360f72b93b366ebd36a5ea27a20bbbe5/Coding_1.gif">
-
 
 - 🔭 I’m currently working on **Personal Projects**
 
